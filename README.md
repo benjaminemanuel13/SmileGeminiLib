@@ -4,5 +4,5 @@
 
 **Perfect for Unity**
 
-Simple drop ReDist files into Assets (as plugins) and use GeminiService and there you go
+Simply drop ReDist files into Assets (as plugins) and use *GeminiService* and there you go
 
