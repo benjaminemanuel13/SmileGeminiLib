@@ -4,5 +4,12 @@
 
 **Perfect for Unity**
 
-Simply drop ReDist files into Assets (as plugins) and use *GeminiService* and there you go
+Simply drop ReDist files into Assets (as plugins) and use *GeminiService* and there you go.
 
+**.Net Usage**
+
+And of course its compatable with any .Net project (its .net Standard 2.1 because I need to use it in Unity).
+
+**Samples**
+
+I'll be adding samples over the next few days.
