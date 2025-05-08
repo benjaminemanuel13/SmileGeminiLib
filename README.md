@@ -13,3 +13,8 @@ And of course its compatable with any .Net project (its .net Standard 2.1 becaus
 **Samples**
 
 I'll be adding samples over the next few days.
+
+
+**Contact Me**
+
+If you find this useful please let me know at benjaminemanuel13@gmail.com
